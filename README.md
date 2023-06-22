@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @07Emilio
+- 👀 I’m interested in Python, new technologies
+- 🌱 I’m currently learning Python, Algoritms and Data Structures
+- 💞️ I’m looking to collaborate on no one
+- 📫 How to reach me - @dcrat (discord)
